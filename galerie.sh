@@ -20,7 +20,7 @@ fi
 #Creation des miniatures et deplacement vers le dossier
 cp *.png miniatures #on peut aussi copier les autres formats d'image si besoin
 for f in miniatures/*; do
-	convert ./"$f"  -thumbnail 50% ./"${f%.png}.png"
+	convert ./"$f" -thumbnail 50% ./"${f%.png}.png"
 done
 
 #Insertion du code html dans un fichier (créé si inexistant)
