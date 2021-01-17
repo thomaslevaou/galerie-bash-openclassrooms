@@ -10,6 +10,7 @@ d'afficher le fichier correspondant dans sa taille originale.
 Une fois cloné, ce projet peut être exécuté via la commande suivante à la racine
 (ImageMagick doit préalablement être installé):
 ```
+chmod 700 langstat.sh
 ./galerie.sh galerieImages.html
 ```
 Ce qui génère alors un fichier galerieImages.html, qu'il suffit d'ouvrir avec un
