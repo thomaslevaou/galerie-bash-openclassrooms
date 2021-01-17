@@ -36,11 +36,11 @@ echo '<!doctype html>
    <body>
       <p>
 
-<a href="finScene4.png"><img src="miniatures/finScene4.png" alt="La fin de la scène 4 de Déprise" /></a>
-<a href="logotubslinkedin.png">  <img src="miniatures/logotubslinkedin.png" alt="Le logo de la TU Braunschweig pour LinkedIn" />
+<a href="pikachu.png"><img src="miniatures/pikachu.png" alt="Image de Pikachu" /></a>
+<a href="bulbizarre.png">  <img src="miniatures/bulbizarre.png" alt="Image de Bulbizarre" />
 </a>
-<a href="logoutclinkedin.png"><img src="miniatures/logoutclinkedin.png" alt="le logo de lUTC pour Linkedin" /></a>
-<a href="micropole.png"><img src="miniatures/micropole.png" alt="le logo de Micropole" /></a>
+<a href="salameche.png"><img src="miniatures/salameche.png" alt="Image de Salameche" /></a>
+<a href="carapuce.png"><img src="miniatures/carapuce.png" alt="Image de Carapuce" /></a>
       </p>
    </body>
 </html>' > $nomFichier
