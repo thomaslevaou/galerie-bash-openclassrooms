@@ -7,7 +7,7 @@ Ce projet consiste à écrire un script bash générant un fichier HTML affichan
 images en taille réduite dans le navigateur. Cliquer sur une des images permet
 d'afficher le fichier correspondant dans sa taille originale.
 
-Une fois cloné, ce projet peut être exécuté via la commande suivante à la racine
+Une fois cloné, ce projet peut être exécuté via les commandes suivantes à la racine
 (ImageMagick doit préalablement être installé):
 ```
 chmod 700 galerie.sh
